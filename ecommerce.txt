@@ -1,0 +1,33 @@
+[6:55 pm, 23/04/2025] Megha Bharathi: 1. Introduction
+1.1 Purpose
+Define the purpose of the document.
+
+Example: "This SRS outlines the functional and non-functional requirements for an e-commerce web application for online retail."
+
+1.2 Scope
+Describe the system and its capabilities.
+
+Example: "The system will enable users to browse products, add items to a cart, purchase using various payment methods, and track their orders."
+[6:55 pm, 23/04/2025] Megha Bharathi: 3.1 Functional Requirements
+Organize by feature or module. Each should include:
+
+FR-1.1: User Registration
+
+Users shall be able to register with email and password.
+
+FR-1.2: Product Search
+
+Users shall be able to search by keyword, category, and filters.
+
+(Repeat for all core modules.)
+
+3.2 Non-Functional Requirements
+Performance: Site must load within 3 seconds on average.
+
+Security: Use HTTPS, encrypt sensitive data.
+
+Scalability: Must support up to 10,000 concurrent users.
+
+Availability: 99.9% uptime expected.
+
+Usability: Should be mobile responsive and easy to navigate.
